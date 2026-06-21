@@ -18,9 +18,8 @@ I enjoy working on multidisciplinary projects that combine biomedical engineerin
 ## Featured Projects
 
 * ORBIT: Onboard Readiness & Bio-Intelligence Telemetry
-* sEMG Exercise Classification System
+* NASA 2026 Lunabotics Competition Regolith Robot
 * IMU Gesture Recognition with TinyML
-* Personal Engineering Portfolio Website
 
 ## Skills
 
