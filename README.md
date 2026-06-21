@@ -1,4 +1,4 @@
-## # Hi, I'm Allison Otero
+## Hi, I'm Allison Otero
 
 I am a Biomedical Engineering student at Florida Institute of Technology with a strong interest in systems engineering, AI/ML, embedded systems, biomedical sensing, signal processing, and robotics.
 
